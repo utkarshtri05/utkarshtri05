@@ -48,8 +48,8 @@ I love solving problems, learning new technologies, and turning ideas into real-
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarshtri05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshtri05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=utkarshtri05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Utkarsh GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshtri05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
@@ -57,7 +57,7 @@ I love solving problems, learning new technologies, and turning ideas into real-
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=utkarshtri05&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=utkarshtri05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -65,7 +65,7 @@ I love solving problems, learning new technologies, and turning ideas into real-
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshtri05&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshtri05&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -73,7 +73,7 @@ I love solving problems, learning new technologies, and turning ideas into real-
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=utkarshtri05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=utkarshtri05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -81,7 +81,7 @@ I love solving problems, learning new technologies, and turning ideas into real-
 ## 💡 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
 ---
@@ -89,7 +89,7 @@ I love solving problems, learning new technologies, and turning ideas into real-
 ## 📌 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=utkarshtri05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=utkarshtri05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
 </p>
 
 ---
@@ -97,7 +97,7 @@ I love solving problems, learning new technologies, and turning ideas into real-
 ## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=utkarshtri05&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=utkarshtri05&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
